@@ -1,0 +1,150 @@
+{
+  "profiles": [
+    {
+      "id": "admin_dockworldwide_001",
+      "email": "DOCKWORLDWIDE",
+      "username": "DOCKWORLDWIDE",
+      "password_hash": "$2b$10$2E8DDcrTJpk9.r6dwi3AxeLoG7xZdySfGmosFWLFlQM6g0182fG.a",
+      "role": "admin",
+      "approval_status": "approved",
+      "created_at": "2026-10-10T13:27:53.749Z",
+      "updated_at": "2026-10-10T13:27:53.749Z"
+    },
+    {
+      "email": "security_auditor@dock.com",
+      "password_hash": "$2b$10$aIeltXReQDCAhnXrRqS3FeJX9G1lGy2/SdvNCcgMWw4f8BUa6COE2",
+      "role": "user",
+      "approval_status": "suspended",
+      "id": "usr_1791638904107_ldrjo4",
+      "created_at": "2026-10-10T13:28:24.107Z",
+      "updated_at": "2026-10-10T13:28:24.538Z"
+    },
+    {
+      "email": "rehmanaliofficial0006@gmail.com",
+      "password_hash": "$2b$10$aSYaKzKhIHf76.CgRD7Ft.dnuVmsbK6Sr0S/cpuowNrH2ND2g8HIm",
+      "role": "user",
+      "approval_status": "pending",
+      "id": "usr_1791639226635_xftbrk",
+      "created_at": "2026-10-10T13:33:46.635Z",
+      "updated_at": "2026-10-10T13:33:46.635Z"
+    },
+    {
+      "email": "partner_1791639706410@shipping.com",
+      "password_hash": "$2b$10$/P2rxSUeJNtC8wN472etvek8/8t8mBIHS2N.ZQKCCRrOccMdpctca",
+      "role": "user",
+      "approval_status": "pending",
+      "id": "usr_1791639706702_d8j0sr",
+      "created_at": "2026-10-10T13:41:46.702Z",
+      "updated_at": "2026-10-10T13:41:46.702Z"
+    },
+    {
+      "email": "approved_partner_1791639714441@logistics.com",
+      "password_hash": "$2b$10$DJOkmR5OoFPbKsg5b1GqHucyiOLT961EFKjpK5FJPtbC2a/.o1pc2",
+      "role": "user",
+      "approval_status": "approved",
+      "id": "usr_1791639714548_ocbzqy",
+      "created_at": "2026-10-10T13:41:54.548Z",
+      "updated_at": "2026-10-10T13:41:54.557Z"
+    },
+    {
+      "email": "direct_member_1791640231083@firm.com",
+      "password_hash": "$2b$10$BcnbeaJWb1sFqxSNaAdWN.xQnFW1q8wXS6Yy0wwW0cNN/XarGT00y",
+      "role": "user",
+      "approval_status": "approved",
+      "id": "usr_1791640231225_oailz0",
+      "created_at": "2026-10-10T13:50:31.225Z",
+      "updated_at": "2026-10-10T13:50:31.235Z"
+    }
+  ],
+  "files": [
+    {
+      "id": "file_spec_001",
+      "title": "DOCKWORLDWIDE Global Security Architecture v4.2",
+      "description": "Comprehensive technical whitepaper on encrypted transit protocols, node infrastructure, and compliance guidelines.",
+      "storage_path": "seed-dock-spec-v4.pdf",
+      "original_filename": "DOCK-Security-Architecture-v4.2.pdf",
+      "file_type": "application/pdf",
+      "file_size": 774,
+      "is_password_protected": false,
+      "password_hash": null,
+      "is_active": true,
+      "download_count": 15,
+      "created_at": "2026-10-07T13:27:53.750Z",
+      "updated_at": "2026-10-10T13:28:24.274Z"
+    },
+    {
+      "id": "file_sdk_002",
+      "title": "Enterprise Integration Client SDK & Keys (Bundle)",
+      "description": "Restricted release bundle containing SDK client bindings, SSL root certificates, and setup utilities. Password protected.",
+      "storage_path": "seed-enterprise-sdk.zip",
+      "original_filename": "DOCK-Enterprise-SDK-Release-v2.8.zip",
+      "file_type": "application/zip",
+      "file_size": 195,
+      "is_password_protected": true,
+      "password_hash": "$2b$10$R1c/k7re/RXL.2DXWmiMzOJPCrabhl/CEIR.y2yIa7II8gwzP8lrS",
+      "is_active": true,
+      "download_count": 9,
+      "created_at": "2026-10-08T13:27:53.849Z",
+      "updated_at": "2026-10-10T13:50:31.245Z"
+    },
+    {
+      "id": "file_nodes_003",
+      "title": "Global High-Speed Relay Nodes Directory 2026",
+      "description": "Real-time telemetry and edge endpoint configuration catalog for verified high-throughput logistics mirrors.",
+      "storage_path": "seed-logistics-dataset.csv",
+      "original_filename": "Global-Nodes-Catalog-2026.csv",
+      "file_type": "text/csv",
+      "file_size": 165,
+      "is_password_protected": false,
+      "password_hash": null,
+      "is_active": true,
+      "download_count": 29,
+      "created_at": "2026-10-09T13:27:53.849Z",
+      "updated_at": "2026-10-09T13:27:53.849Z"
+    },
+    {
+      "id": "file_audit_004",
+      "title": "SOC2 Type II & ISO 27001 Compliance Audit Reports",
+      "description": "Third-party validated security certification and attestation reports for enterprise security audits.",
+      "storage_path": "seed-financial-audits.zip",
+      "original_filename": "DOCK-Audit-Reports-2026.zip",
+      "file_type": "application/zip",
+      "file_size": 202,
+      "is_password_protected": true,
+      "password_hash": "$2b$10$OGoOSd/V0ac0.zbPQDeoL.wAHTkv8/riS3UbaSkab5BfeaY2fMCWm",
+      "is_active": true,
+      "download_count": 3,
+      "created_at": "2026-10-10T08:27:53.947Z",
+      "updated_at": "2026-10-10T08:27:53.947Z"
+    }
+  ],
+  "download_logs": [
+    {
+      "user_id": "usr_1791640231225_oailz0",
+      "user_email": "direct_member_1791640231083@firm.com",
+      "file_id": "file_sdk_002",
+      "file_title": "Enterprise Integration Client SDK & Keys (Bundle)",
+      "ip_address": "127.0.0.1",
+      "id": "log_1791640231246_7nlrpn",
+      "downloaded_at": "2026-10-10T13:50:31.246Z"
+    },
+    {
+      "user_id": "usr_1791638904107_ldrjo4",
+      "user_email": "security_auditor@dock.com",
+      "file_id": "file_sdk_002",
+      "file_title": "Enterprise Integration Client SDK & Keys (Bundle)",
+      "ip_address": "127.0.0.1",
+      "id": "log_1791638904528_ck7t6t",
+      "downloaded_at": "2026-10-10T13:28:24.528Z"
+    },
+    {
+      "user_id": "usr_1791638904107_ldrjo4",
+      "user_email": "security_auditor@dock.com",
+      "file_id": "file_spec_001",
+      "file_title": "DOCKWORLDWIDE Global Security Architecture v4.2",
+      "ip_address": "127.0.0.1",
+      "id": "log_1791638904274_3xn6sv",
+      "downloaded_at": "2026-10-10T13:28:24.274Z"
+    }
+  ]
+}

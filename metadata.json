@@ -1,0 +1,6 @@
+{
+  "name": "DOCKWORLDWIDE - File Download Portal",
+  "description": "Secure enterprise file sharing and download portal with role-based access, account approval workflows, and password-protected file delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
